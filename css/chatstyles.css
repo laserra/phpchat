@@ -1,0 +1,55 @@
+@charset "utf-8";
+/* CSS Document */
+
+.message {
+   overflow:hidden;
+   width:498px;
+   margin-bottom:5px;
+   border:0px solid #999;
+}
+.messagehead {
+   overflow:hidden;
+   background:#FFC;
+   width:500px;
+}
+.messagecontent {
+   overflow:hidden;
+   width:496px;
+}
+#message_list{
+   overflow-y:scroll;
+   overflow-x: hidden;
+   height:300px;
+   width:400px;
+   border: 1px solid #999;
+   background-color: #EEE;
+   margin-right: 0px;
+   margin-left: auto;
+}
+#users_list{
+   overflow-y:scroll;
+   overflow-x: hidden;
+   height:300px;
+   width:200px;
+   border: 1px solid #999;
+   background-color: #EEE;
+   margin-right: auto;
+   margin-left: 0px;
+}
+#write{
+   width: 400px;
+  margin-left: auto;
+  margin-right: 0px;
+}
+#write_message{
+   width:400px;
+   margin-right: 0px;
+}
+
+.login{
+   margin: 0 auto;
+   float: none;
+}
+.text_center{
+
+}
